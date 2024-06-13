@@ -12,7 +12,29 @@
     gap: 5px;
 
 }
+.titulo__principal{
+    display: flex;
+    justify-content: center;
 
+}
+.container{
+    gap: 5em;
+}
+.lista{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.lista__lista{
+    gap:10px;
+}
+.paragrafo{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}
 /* exemplo de linha de botões*/
 a {
     display: flex;
